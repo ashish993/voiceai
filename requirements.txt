@@ -3,7 +3,7 @@ langchain
 openai-whisper
 pygame
 gtts
-pyaudio
+libportaudio2
 python-dotenv
 langchain-groq
 scipy
